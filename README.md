@@ -1,9 +1,11 @@
 # My_Food_Website
  
-Fonts from:-[Google Fonts](https://fonts.google.com/?query=raleway)
+*Fonts from*:-[Google Fonts](https://fonts.google.com/?query=raleway)
 
-Icons from:-[Icons8](https://icons8.com/icons/set/instagram)
+*Icons from*:-[Icons8](https://icons8.com/icons/set/instagram)
 
-Images from:-[Unsplash](https://unsplash.com/) & [Google Images](https://images.google.com/imghp?hl=en&gl=ar&gws_rd=ssl)
+*Images from*:-[Unsplash](https://unsplash.com/) & [Google Images](https://images.google.com/imghp?hl=en&gl=ar&gws_rd=ssl)
 
-Javascript Components from:-[Code.query](code.jquery.com)  & [cdn](cdn.jsdelivr.net)
+*Javascript Components from*:-[Code.query](code.jquery.com)  & [cdn](cdn.jsdelivr.net)
+
+*CSS from*:-[W3School](https://www.w3schools.com/cssref/css3_pr_transform.asp) & [CSS Tricks](https://css-tricks.com/)
