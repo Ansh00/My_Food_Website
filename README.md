@@ -9,3 +9,7 @@
 *Javascript Components from*:-[Code.query](code.jquery.com)  & [cdn](cdn.jsdelivr.net)
 
 *CSS from*:-[W3School](https://www.w3schools.com/cssref/css3_pr_transform.asp) & [CSS Tricks](https://css-tricks.com/)
+
+*Logo from*:-[Hathful](https://hatchful.shopify.com/)
+
+*Map from*:- [Google Maps](https://www.google.co.in/maps)
