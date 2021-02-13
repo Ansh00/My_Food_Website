@@ -13,3 +13,5 @@
 *Logo from*:-[Hathful](https://hatchful.shopify.com/)
 
 *Map from*:- [Google Maps](https://www.google.co.in/maps)
+
+*Slider from*:-[Slick Slider](https://kenwheeler.github.io/slick/)
